@@ -24,7 +24,7 @@ This study employs **molecular fingerprint analysis** and **pIC50 bioactivity va
 
 ## 🧪 Methodology  
 ### **1. Dataset Collection & Preprocessing**  
-- The dataset consists of **1,400 aromatase inhibitor compounds**.  
+- The dataset consists of **1,400 aromatase active inhibitor compounds**.  
 - Features were extracted using **PaDEL Descriptor**, producing **substructure fingerprints**.  
 - Only compounds with **pIC50 ≥ 6.5** and **MW ≤ 300 Da** were selected.  
 
