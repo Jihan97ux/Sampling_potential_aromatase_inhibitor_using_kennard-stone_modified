@@ -1,4 +1,4 @@
-# Selection of Potential Aromatase Inhibitors Using Fingerprint Analysis and pIC50 Integrated with the Kennard-Stone Algorithm  
+# Selection of Potential Aromatase Inhibitors Using Fingerprint Analysis and pIC50 Integrated with Modified Kennard-Stone Algorithm  
 
 ## Author   
 **Jihan Fadila** (105222022)  
